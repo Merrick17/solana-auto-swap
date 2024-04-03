@@ -44,7 +44,7 @@ Replace `your_private_key_here`, `fee_wallet_address`, `token_mint_address`, and
 To execute the script and run transactions, use the following command:
 
 ```
-npm run dev
+npm run start:dev
 ```
 
 This command will run the script in development mode, executing the specified number of loops as defined in the `.env` file.
