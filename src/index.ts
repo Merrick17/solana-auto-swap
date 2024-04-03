@@ -33,7 +33,7 @@ export async function main() {
 
   // Make sure that you are using your own RPC endpoint.
   const connection = new Connection(
-    "https://radial-delicate-layer.solana-mainnet.discover.quiknode.pro/124d30642a313843475e1ac3f67e59d11d55d943"
+    "https://solana-mainnet.g.alchemy.com/v2/bYvXTPXDlkcg7JxAUXywhMnFHqq6oi1K"
   );
   let quote;
   let feeAmount;

@@ -9,13 +9,13 @@ This script executes Solana transactions based on input parameters.
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/solana-transaction-executor.git
+   git clone https://github.com/Merrick17/solana-auto-swap.git 
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd solana-transaction-executor
+   cd solana-auto-swap
    ```
 
 3. Install dependencies using npm:
@@ -52,7 +52,7 @@ This command will run the script in development mode, executing the specified nu
 ## Notes
 
 - Make sure you have Node.js and npm installed on your machine.
-- Ensure that the provided RPC endpoint in the script (`https://radial-delicate-layer.solana-mainnet.discover.quiknode.pro/124d30642a313843475e1ac3f67e59d11d55d943`) is accessible and valid.
+- Ensure that the provided RPC endpoint in the script (`https://solana-mainnet.g.alchemy.com/v2/bYvXTPXDlkcg7JxAUXywhMnFHqq6oi1K`) is accessible and valid.
 - Review the script logic and adjust input parameters (`INPUT_AMOUNT`, `TYPE`, `LOOPS`, etc.) as per your requirements before running.
 
 ---
